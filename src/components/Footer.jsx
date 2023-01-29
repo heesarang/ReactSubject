@@ -1,3 +1,9 @@
+// components/Footer.jsx
+
 export default function Footer() {
-  return <div>Footer</div>;
+  return (
+    <footer>
+      <p>© 2021 Mark Lee. All rights reserved.</p>
+    </footer>
+  );
 }
